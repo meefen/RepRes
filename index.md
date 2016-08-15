@@ -1,12 +1,14 @@
 ---
 layout: page
-title: Tools for Reproducible Research
-tagline: Spring, 2016
-description: A course on tools for reproducible research, UW-Madison
+title: Reproducible Research and Academic Workflow
+tagline: Summer, 2017
+description: A one-credit course on tools for reproducible research and academic workflow, University of Minnesota--Twin Cities
 ---
 
 
 #### Course summary
+
+TO_BE_REVISED
 
 A minimal standard for data analysis and other scientific computations is
 that they be _reproducible_: that the code and data are assembled in a
